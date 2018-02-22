@@ -1,4 +1,5 @@
-# kbn_pivottable
+# Kibana Visualization Plugin -- Pivot Table
+
 Kibana Plugin -- Pivot Table
 
 A Kibana Visualization plugin for version 5.6.0
