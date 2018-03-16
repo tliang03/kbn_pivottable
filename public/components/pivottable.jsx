@@ -37,6 +37,7 @@ export default class CustomizedPivotTable extends React.PureComponent {
         dimensions={this.props.dimensions}
         calculations={calculations}
         reduce={reducers}
+        solo={{}}
         activeDimensions={this.props.activeDimensions}
         nPaginateRows={this.props.nPaginateRows}
          />,
